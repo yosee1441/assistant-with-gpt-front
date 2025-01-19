@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "userScore": 70,
+  "errors": [
+    "bibo -> vivo",
+    "siudad -> ciudad",
+    "Alhambra -> alhóndiga",
+    "gazpacho -> gazpacho",
+    "rebujito -> rebujito",
+    "deliciosa -> delicioso"
+  ],
+  "message": "¡Buen trabajo! Has coregido la mayoría de los errores ortográficos y gramaticales. Sigue así."
+}
